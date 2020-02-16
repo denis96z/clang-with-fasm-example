@@ -1,0 +1,9 @@
+### IDE ###
+/.idea/
+/.vscode/
+
+### cmake ###
+/cmake-build-*/
+
+### lib ###
+/lib/
